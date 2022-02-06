@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JourneytoSDE
+- 👋 Hi, I’m @JourneytoSDE (Greg)
 - 👀 I’m interested in Learning and moving away from Network Engineering and into Software Development
 - 🌱 I’m currently learning Python and Rust
 - 💞️ I’m looking to collaborate on ...
